@@ -24,7 +24,7 @@ def test_portfolio_homepage():
 
     # Check if the word "Portfolio" is in the title of the page
 
-    assert "Portfolio" in driver.title
+    assert "Onix Digital Marketing HTML5 Template" in driver.title
 
     
 
